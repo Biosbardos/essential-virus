@@ -1,0 +1,7 @@
+#Ignore "personal" information files
+.depend
+.layout
+.cbp
+
+#Ignore .git folder of the project
+/.git
